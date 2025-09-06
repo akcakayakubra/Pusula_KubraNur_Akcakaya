@@ -6,6 +6,7 @@
 ---
 
 ##About the Project
+
 In this study, a **Physical Medicine & Rehabilitation** dataset containing 2235 observations and 13 features was analyzed.
 The main goal of the study is to make the dataset model ready through EDA and Pre-processing steps.
 
@@ -18,28 +19,46 @@ Steps Followed:
 
 ----
 ##Libraries Used
+
 -pandas
+
 -matplotlib
+
 -seaborn
+
 -scikit-learn
+
 ----
 
 ##Dataset Information
-The dataset consists of the following columns:
--HastaNo
--Yas
--Cinsiyet
--KanGrubu
--Uyruk
--KronikHastalik
--Bolum
--Alerji
--Tanilar
--TedaviAdi
--TedaviSuresi
--UygulamaYerleri
--UygulamaSuresi
 
+The dataset consists of the following columns:
+
+-HastaNo
+
+-Yas
+
+-Cinsiyet
+
+-KanGrubu
+
+-Uyruk
+
+-KronikHastalik
+
+-Bolum
+
+-Alerji
+
+-Tanilar
+
+-TedaviAdi
+
+-TedaviSuresi
+
+-UygulamaYerleri
+
+-UygulamaSuresi
 
 ---
 How to Run the Code
