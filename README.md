@@ -67,7 +67,7 @@ The dataset consists of the following columns:
 -UygulamaSuresi
 
 ---
-How to Run the Code
+##How to Run the Code
 
 1-Install the Necessary Libraries
 Open your terminal or command prompt and type the following:
