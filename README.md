@@ -70,13 +70,18 @@ The dataset consists of the following columns:
 ##How to Run the Code
 
 1-Install the Necessary Libraries
+
 Open your terminal or command prompt and type the following:
+
 pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
 
 2-Download the Data File
+
 Place the Talent_Academy_Case_DT_2025.xlsx file in the same folder as the project code.
 
 3-Run the Code
+
 If you are using Juypter Notebook, open the .ipynb file and run all cells.
+
 If you are using a Python IDE, open the .py file and run it.
 
