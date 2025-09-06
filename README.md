@@ -1,6 +1,7 @@
 #Data Science Case Study
 
 **Name:** Kübra Nur Akçakaya
+
 **Email:** kubrakcakaya@outlook.com
 
 ---
@@ -11,10 +12,15 @@ In this study, a **Physical Medicine & Rehabilitation** dataset containing 2235 
 The main goal of the study is to make the dataset model ready through EDA and Pre-processing steps.
 
 Steps Followed:
+
 -Exploraty Data Analysis (EDA)
+
 -Handling with missing values
+
 -Visualize
+
 -Encoding Categorical Variables (Label Encoder & One Hot Encoder)
+
 -Normalization & Standardization
 
 ----
